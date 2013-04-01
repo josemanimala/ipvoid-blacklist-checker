@@ -1,0 +1,7 @@
+hostname = "smtp.gmail.com"
+username = "user@gmail.com"
+password = "password"
+port     = "465"
+iplist   = "iplist.txt"
+fromAdd  = "spamcheck@blah.com"
+toAdd    = "list@blah.com"
